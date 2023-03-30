@@ -35,5 +35,8 @@
       1. python manage.py startapp _뉴진스_
    2. helloidol/settings.py
       1. '_뉴진스_', in INSTALLED_APPS
-6. helloidol
-   1. urls
+6. helloidol/urls
+   1. 뉴진스 -> 뉴진스.urls
+7. _뉴진스_/
+   1. show_혜인()
+   2. show_해린()
