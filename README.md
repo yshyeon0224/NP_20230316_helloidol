@@ -30,8 +30,10 @@
       1. _playground/_ -> _hello/_ -> _say_hello()_
       1. _playground/_ -> _hello_html/_ -> _say_hello_html()_
       2. _playground/_ -> _bye/_ -> _say_bye()_
-   5. startapp _아이브_
-      1. Terminal
-         1. python manage.py startapp _아이브_
-      2. helloidol/settings.py
-         1. '_아이브_', in INSTALLED_APPS
+5. startapp _뉴진스_
+   1. Terminal
+      1. python manage.py startapp _뉴진스_
+   2. helloidol/settings.py
+      1. '_뉴진스_', in INSTALLED_APPS
+6. helloidol
+   1. urls
