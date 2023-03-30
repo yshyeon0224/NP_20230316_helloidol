@@ -38,5 +38,9 @@
 6. helloidol/urls
    1. 뉴진스 -> 뉴진스.urls
 7. _뉴진스_/
-   1. show_혜인()
-   2. show_해린()
+   1. views
+      1. show_혜인()
+      2. show_해린(
+   2. urls
+      1. 뉴진스/ -> 혜인/ show_혜인
+      2. 뉴진스/ -> 해린/ show_해린
